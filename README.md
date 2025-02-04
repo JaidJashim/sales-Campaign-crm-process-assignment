@@ -12,7 +12,7 @@ This repository contains a Python script designed to automate the process of lea
 
 ## 🛠 Technologies Used
 
-* **Python**
+* **Python** (version 3.12.8)
 * **Google Sheets API**
 * **NeverBounce API** (for email verification)
 * **OpenAI GPT-4 API** (for AI-generated insights & recommendations)
