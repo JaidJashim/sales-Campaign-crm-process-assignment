@@ -1,0 +1,6 @@
+APScheduler==3.11.0
+google_api_python_client==2.160.0
+openai==1.61.0
+pandas==2.2.3
+protobuf==5.29.3
+Requests==2.32.3
